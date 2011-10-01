@@ -1,0 +1,5 @@
+AuthName "Page d'administration protégée"
+AuthType Basic
+AuthUserFile "/home/gregory/Dropbox/php_exercice4/sql/.htpasswd"
+Require valid-user
+
